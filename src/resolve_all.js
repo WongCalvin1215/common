@@ -1,5 +1,5 @@
-import common from "./functions/common";
-let c = common();
+import Common from "./functions/common";
+let c = new Common();
 
 //Goal:
 //1. API order dependency (for common usage)
