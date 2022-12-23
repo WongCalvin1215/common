@@ -1,7 +1,7 @@
 {
   "name": "common",
   "version": "1.0.0",
-  "description": "",
+  "description": "nothing, just looking for potential fixer for daily coding issue",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
